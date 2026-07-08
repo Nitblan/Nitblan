@@ -83,7 +83,7 @@ Preparatoria &nbsp;·&nbsp; Tecnológico de Monterrey CCM &nbsp;·&nbsp; 18 year
 
 ## MAPA DE CONTRIBUCIONES
 
-<img src="https://raw.githubusercontent.com/Nitblan/Nitblan/main/dist/github-metrics-isocalendar.svg" width="100%" alt="3D Isometric Contribution Calendar" />
+<img src="https://raw.githubusercontent.com/Nitblan/Nitblan/main/dist/github-metrics-isocalendar.svg?v=2" width="380" alt="3D Isometric Contribution Calendar" />
 
 </div>
 

@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:050505&height=260&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:111111,100:000000&section=header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=2200&pause=2500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+NITBLAN;Computer+Engineering+Student;Linux+Enthusiast;Cybersecurity+Student;Learning+C"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=42&duration=2200&pause=2500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi,+I'm+NITBLAN;Cybersecurity+Student;Linux+Enthusiast;Learning+C"/>
 
-</div>
-<h3>Estudiante de Ingeniería &nbsp;|&nbsp; Tec CCM &nbsp;|&nbsp; 18 años</h3>
+<p>
+Preparatoria · Tecnológico de Monterrey CCM · 17 years old
+</p>
 
 </div>
 

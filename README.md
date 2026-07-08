@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=42&duration=2200&pause=2500&color=C9D1D9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+NITBLAN;Cybersecurity+Student;Linux+Enthusiast;Learning+C"/>
 
 <p>
-Preparatoria &nbsp;·&nbsp; Tecnológico de Monterrey CCM &nbsp;·&nbsp; 17 years old
+Preparatoria &nbsp;·&nbsp; Tecnológico de Monterrey CCM &nbsp;·&nbsp; 18 years old
 </p>
 
 </div>
@@ -16,11 +16,11 @@ Preparatoria &nbsp;·&nbsp; Tecnológico de Monterrey CCM &nbsp;·&nbsp; 17 year
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="260" />
 </div>
 
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2c3e50,100:000000&height=3&width=100%" width="100%"/>
 
-<br><br>
+<br>
 
 <div align="center">
 
@@ -30,10 +30,10 @@ Preparatoria &nbsp;·&nbsp; Tecnológico de Monterrey CCM &nbsp;·&nbsp; 17 year
 
 </div>
 
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2c3e50,100:000000&height=3&width=100%" width="100%"/>
-<br><br>
+<br>
 
 <div align="center">
 
@@ -48,10 +48,10 @@ Preparatoria &nbsp;·&nbsp; Tecnológico de Monterrey CCM &nbsp;·&nbsp; 17 year
 
 </div>
 
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2c3e50,100:000000&height=3&width=100%" width="100%"/>
-<br><br>
+<br>
 
 <div align="center">
 
@@ -70,14 +70,14 @@ Preparatoria &nbsp;·&nbsp; Tecnológico de Monterrey CCM &nbsp;·&nbsp; 17 year
 </a>
 
 <br>
-<sub>IA-LocalTune — Internal Assessment de IB. Reproductor local estilo Spotify. &nbsp;|&nbsp; MyCust0mArch — mis dotfiles de Arch Linux.</sub>
+<sub>IA-LocalTune — Internal Assessment de IB. Reproductor local estilo Spotify, construido en Python. &nbsp;|&nbsp; MyCust0mArch — mis dotfiles de Arch Linux.</sub>
 
 </div>
 
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2c3e50,100:000000&height=3&width=100%" width="100%"/>
-<br><br>
+<br>
 
 <div align="center">
 
@@ -87,10 +87,10 @@ Preparatoria &nbsp;·&nbsp; Tecnológico de Monterrey CCM &nbsp;·&nbsp; 17 year
 
 </div>
 
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2c3e50,100:000000&height=3&width=100%" width="100%"/>
-<br><br>
+<br>
 
 <div align="center">
 
@@ -98,7 +98,7 @@ Preparatoria &nbsp;·&nbsp; Tecnológico de Monterrey CCM &nbsp;·&nbsp; 17 year
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitblan&theme=dark&hide_border=true&border_radius=10&background=000000&stroke=4a6fa5&ring=4a6fa5&fire=4a6fa5&currStreakLabel=C9D1D9" width="420" alt="Streak Stats" />
 
-<br><br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nitblan/Nitblan/output/github-contribution-grid-snake-dark.svg" />
@@ -107,10 +107,10 @@ Preparatoria &nbsp;·&nbsp; Tecnológico de Monterrey CCM &nbsp;·&nbsp; 17 year
 
 </div>
 
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2c3e50,100:000000&height=3&width=100%" width="100%"/>
-<br><br>
+<br>
 
 <div align="center">
 

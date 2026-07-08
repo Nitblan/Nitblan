@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2b0000,100:000000&height=220&section=header&text=NITBLAN&fontColor=e6e6e6&fontSize=55&fontAlignY=45&animation=fadeIn&desc=aspiring%20systems%20%2F%20security%20engineer&descAlignY=65&descSize=16&descAlign=50" width="100%"/>
 
-<h3>Estudiante de Ingeniería &nbsp;|&nbsp; Tec CCM &nbsp;|&nbsp; 17 años</h3>
+<h3>Estudiante de Ingeniería &nbsp;|&nbsp; Tec CCM &nbsp;|&nbsp; 18 años</h3>
 
 </div>
 
@@ -12,9 +12,7 @@
 
 ## STACK
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,arch,vscode,git,github,obsidian&theme=dark" /><br><br>
-
-<img src="https://img.shields.io/badge/CURRENTLY_LEARNING-C-000000?style=for-the-badge&logo=c&logoColor=silver&labelColor=000000&color=8b0000" />
+<img src="https://skillicons.dev/icons?i=python,c,bash,linux,arch,mysql,vscode,git,github,obsidian&theme=dark" />
 
 </div>
 
@@ -46,9 +44,13 @@
 <a href="https://github.com/Nitblan/IA-LocalTune">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitblan&repo=IA-LocalTune&theme=dark&hide_border=true&border_radius=10&title_color=e6e6e6&text_color=aaaaaa&icon_color=8b0000&bg_color=000000" height="150" alt="IA LocalTune" />
 </a>
+&nbsp;&nbsp;
+<a href="https://github.com/Nitblan/MyCust0mArch">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitblan&repo=MyCust0mArch&theme=dark&hide_border=true&border_radius=10&title_color=e6e6e6&text_color=aaaaaa&icon_color=8b0000&bg_color=000000" height="150" alt="MyCust0mArch" />
+</a>
 
 <br>
-<sub>IA-LocalTune — Internal Assessment de IB. Reproductor local estilo Spotify, construido en Python.</sub>
+<sub>IA-LocalTune — Internal Assessment de IB. Reproductor local estilo Spotify, construido en Python. &nbsp;|&nbsp; MyCust0mArch — mis dotfiles de Arch Linux.</sub>
 
 </div>
 
@@ -68,13 +70,7 @@
 
 ## ACTIVIDAD
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitblan&theme=dark&hide_border=true&border_radius=10&title_color=e6e6e6&text_color=aaaaaa&icon_color=8b0000&bg_color=000000&layout=compact" width="380" alt="Top Languages" />
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitblan&theme=dark&hide_border=true&border_radius=10&background=000000&stroke=8b0000&ring=8b0000&fire=8b0000&currStreakLabel=e6e6e6" width="380" alt="Streak Stats" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/?username=Nitblan&show_icons=true&theme=dark&hide_border=true&border_radius=10&title_color=e6e6e6&text_color=aaaaaa&icon_color=8b0000&bg_color=000000" width="480" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitblan&theme=dark&hide_border=true&border_radius=10&background=000000&stroke=8b0000&ring=8b0000&fire=8b0000&currStreakLabel=e6e6e6" width="420" alt="Streak Stats" />
 
 <br><br>
 
@@ -85,6 +81,15 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b0000,100:000000&height=3&width=100%" width="100%"/>
+
+<div align="center">
+
+<a href="https://github.com/Nitblan">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=silver&labelColor=000000" />
+</a>
+
+</div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b0000,100:000000&height=3&width=100%" width="100%"/>
 
 <div align="center">

@@ -4,11 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=2200&pause=2500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+NITBLAN;Computer+Engineering+Student;Linux+Enthusiast;Cybersecurity+Student;Learning+C"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 </div>
 <h3>Estudiante de Ingeniería &nbsp;|&nbsp; Tec CCM &nbsp;|&nbsp; 18 años</h3>
 

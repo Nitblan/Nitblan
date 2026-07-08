@@ -10,7 +10,17 @@ Preparatoria &nbsp;·&nbsp; Tecnológico de Monterrey CCM &nbsp;·&nbsp; 17 year
 
 </div>
 
+<br><br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="260" />
+</div>
+
+<br><br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2c3e50,100:000000&height=3&width=100%" width="100%"/>
+
+<br><br>
 
 <div align="center">
 
@@ -20,7 +30,10 @@ Preparatoria &nbsp;·&nbsp; Tecnológico de Monterrey CCM &nbsp;·&nbsp; 17 year
 
 </div>
 
+<br><br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2c3e50,100:000000&height=3&width=100%" width="100%"/>
+<br><br>
 
 <div align="center">
 
@@ -35,7 +48,10 @@ Preparatoria &nbsp;·&nbsp; Tecnológico de Monterrey CCM &nbsp;·&nbsp; 17 year
 
 </div>
 
+<br><br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2c3e50,100:000000&height=3&width=100%" width="100%"/>
+<br><br>
 
 <div align="center">
 
@@ -54,11 +70,14 @@ Preparatoria &nbsp;·&nbsp; Tecnológico de Monterrey CCM &nbsp;·&nbsp; 17 year
 </a>
 
 <br>
-<sub>IA-LocalTune — Internal Assessment de IB. Reproductor local estilo Spotify, construido en Python. &nbsp;|&nbsp; MyCust0mArch — mis dotfiles de Arch Linux.</sub>
+<sub>IA-LocalTune — Internal Assessment de IB. Reproductor local estilo Spotify. &nbsp;|&nbsp; MyCust0mArch — mis dotfiles de Arch Linux.</sub>
 
 </div>
 
+<br><br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2c3e50,100:000000&height=3&width=100%" width="100%"/>
+<br><br>
 
 <div align="center">
 
@@ -68,7 +87,10 @@ Preparatoria &nbsp;·&nbsp; Tecnológico de Monterrey CCM &nbsp;·&nbsp; 17 year
 
 </div>
 
+<br><br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2c3e50,100:000000&height=3&width=100%" width="100%"/>
+<br><br>
 
 <div align="center">
 
@@ -85,7 +107,10 @@ Preparatoria &nbsp;·&nbsp; Tecnológico de Monterrey CCM &nbsp;·&nbsp; 17 year
 
 </div>
 
+<br><br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2c3e50,100:000000&height=3&width=100%" width="100%"/>
+<br><br>
 
 <div align="center">
 

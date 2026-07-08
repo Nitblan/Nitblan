@@ -1,15 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:050505&height=220&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:050505&height=260&section=header"/>
 
-<h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=44&duration=2000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+NITBLAN"/>
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=2200&pause=2500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+NITBLAN;Computer+Engineering+Student;Linux+Enthusiast;Cybersecurity+Student;Learning+C"/>
 
-<h3>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Python+Developer;Linux+Enthusiast;Arch+Linux+User;Cybersecurity+Student;Learning+C"/>
-</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>

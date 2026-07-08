@@ -1,7 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2b0000,100:000000&height=220&section=header&text=NITBLAN&fontColor=e6e6e6&fontSize=55&fontAlignY=45&animation=fadeIn&desc=aspiring%20systems%20%2F%20security%20engineer&descAlignY=65&descSize=16&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:050505&height=220&section=header"/>
 
+<h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=44&duration=2000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+NITBLAN"/>
+</h1>
+
+<h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Python+Developer;Linux+Enthusiast;Arch+Linux+User;Cybersecurity+Student;Learning+C"/>
+</h3>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+</div>
 <h3>Estudiante de Ingeniería &nbsp;|&nbsp; Tec CCM &nbsp;|&nbsp; 18 años</h3>
 
 </div>

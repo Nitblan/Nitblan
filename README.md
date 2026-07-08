@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=42&duration=2200&pause=2500&color=C9D1D9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+NITBLAN;Cybersecurity+Student;Linux+Enthusiast;Learning+C"/>
 
 <p>
-Preparatoria &nbsp;·&nbsp; Tecnológico de Monterrey CCM &nbsp;·&nbsp; 18 years old
+Preparatoria &nbsp;·&nbsp; Tecnológico de Monterrey CCM &nbsp;·&nbsp; 17 years old
 </p>
 
 </div>
@@ -26,7 +26,7 @@ Preparatoria &nbsp;·&nbsp; Tecnológico de Monterrey CCM &nbsp;·&nbsp; 18 year
 
 ## STACK
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pbsidian,github,gitpython,linux,arch,bash,python,c,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,obsidian,github,git,linux,arch,bash,python,c,mysql&theme=dark" />
 
 </div>
 

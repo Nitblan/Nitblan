@@ -26,7 +26,11 @@ Preparatoria &nbsp;·&nbsp; Tecnológico de Monterrey CCM &nbsp;·&nbsp; 17 year
 
 ## STACK
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,obsidian,github,git,linux,debian,kali,neovim,vim,raspberrypi,arch,bash,python,c,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,arch,debian,kali,raspberrypi,bash,git,github&theme=dark&perline=8" width="620" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,c,mysql,vscode,visualstudio,neovim,vim,obsidian&theme=dark&perline=8" width="620" />
 
 </div>
 

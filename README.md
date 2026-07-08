@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:111111,100:000000&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,35:1b2735,50:2c3e50,65:1b2735,100:000000&section=header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=42&duration=2200&pause=2500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi,+I'm+NITBLAN;Cybersecurity+Student;Linux+Enthusiast;Learning+C"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=42&duration=2200&pause=2500&color=C9D1D9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+NITBLAN;Cybersecurity+Student;Linux+Enthusiast;Learning+C"/>
 
 <p>
-Preparatoria · Tecnológico de Monterrey CCM · 17 years old
+Preparatoria &nbsp;·&nbsp; Tecnológico de Monterrey CCM &nbsp;·&nbsp; 17 years old
 </p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b0000,100:000000&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2c3e50,100:000000&height=3&width=100%" width="100%"/>
 
 <div align="center">
 
@@ -20,37 +20,37 @@ Preparatoria · Tecnológico de Monterrey CCM · 17 years old
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b0000,100:000000&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2c3e50,100:000000&height=3&width=100%" width="100%"/>
 
 <div align="center">
 
 ## RED
 
 <a href="https://www.instagram.com/shantiblan/">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=silver&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=C9D1D9&labelColor=000000&color=2c3e50" />
 </a>
 <a href="https://app.hackthebox.com/users/3184294">
-  <img src="https://img.shields.io/badge/Hack_The_Box-000000?style=for-the-badge&logo=hackthebox&logoColor=silver&labelColor=000000&color=8b0000" />
+  <img src="https://img.shields.io/badge/Hack_The_Box-000000?style=for-the-badge&logo=hackthebox&logoColor=C9D1D9&labelColor=000000&color=2c3e50" />
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b0000,100:000000&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2c3e50,100:000000&height=3&width=100%" width="100%"/>
 
 <div align="center">
 
 ## PROYECTOS DESTACADOS
 
 <a href="https://github.com/Nitblan/HTB-PlatformDatabase">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitblan&repo=HTB-PlatformDatabase&theme=dark&hide_border=true&border_radius=10&title_color=e6e6e6&text_color=aaaaaa&icon_color=8b0000&bg_color=000000" height="150" alt="HTB Platform Database" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitblan&repo=HTB-PlatformDatabase&theme=dark&hide_border=true&border_radius=10&title_color=C9D1D9&text_color=7d8fa3&icon_color=4a6fa5&bg_color=000000" height="150" alt="HTB Platform Database" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Nitblan/IA-LocalTune">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitblan&repo=IA-LocalTune&theme=dark&hide_border=true&border_radius=10&title_color=e6e6e6&text_color=aaaaaa&icon_color=8b0000&bg_color=000000" height="150" alt="IA LocalTune" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitblan&repo=IA-LocalTune&theme=dark&hide_border=true&border_radius=10&title_color=C9D1D9&text_color=7d8fa3&icon_color=4a6fa5&bg_color=000000" height="150" alt="IA LocalTune" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Nitblan/MyCust0mArch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitblan&repo=MyCust0mArch&theme=dark&hide_border=true&border_radius=10&title_color=e6e6e6&text_color=aaaaaa&icon_color=8b0000&bg_color=000000" height="150" alt="MyCust0mArch" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitblan&repo=MyCust0mArch&theme=dark&hide_border=true&border_radius=10&title_color=C9D1D9&text_color=7d8fa3&icon_color=4a6fa5&bg_color=000000" height="150" alt="MyCust0mArch" />
 </a>
 
 <br>
@@ -58,7 +58,7 @@ Preparatoria · Tecnológico de Monterrey CCM · 17 years old
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b0000,100:000000&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2c3e50,100:000000&height=3&width=100%" width="100%"/>
 
 <div align="center">
 
@@ -68,13 +68,13 @@ Preparatoria · Tecnológico de Monterrey CCM · 17 years old
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b0000,100:000000&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2c3e50,100:000000&height=3&width=100%" width="100%"/>
 
 <div align="center">
 
 ## ACTIVIDAD
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitblan&theme=dark&hide_border=true&border_radius=10&background=000000&stroke=8b0000&ring=8b0000&fire=8b0000&currStreakLabel=e6e6e6" width="420" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitblan&theme=dark&hide_border=true&border_radius=10&background=000000&stroke=4a6fa5&ring=4a6fa5&fire=4a6fa5&currStreakLabel=C9D1D9" width="420" alt="Streak Stats" />
 
 <br><br>
 
@@ -85,21 +85,12 @@ Preparatoria · Tecnológico de Monterrey CCM · 17 years old
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b0000,100:000000&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2c3e50,100:000000&height=3&width=100%" width="100%"/>
 
 <div align="center">
 
 <a href="https://github.com/Nitblan">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=silver&labelColor=000000" />
-</a>
-
-</div>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b0000,100:000000&height=3&width=100%" width="100%"/>
-
-<div align="center">
-
-<a href="https://github.com/Nitblan">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=silver&labelColor=000000" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=C9D1D9&labelColor=000000" />
 </a>
 
 </div>

@@ -4,6 +4,9 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch: {}
 
+permissions:
+  contents: write
+
 jobs:
   metrics:
     runs-on: ubuntu-latest
@@ -16,6 +19,5 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          output_action: gh-pages-fix
           committer_branch: main
           filename: dist/github-metrics-isocalendar.svg

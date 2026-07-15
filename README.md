@@ -61,29 +61,49 @@ Preparatoria &nbsp;·&nbsp; Tecnológico de Monterrey CCM &nbsp;·&nbsp; 17 year
 
 ## PROYECTOS DESTACADOS
 
+<div align="center">
+
 <a href="https://github.com/Nitblan/HTB-PlatformDatabase">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitblan&repo=HTB-PlatformDatabase&theme=dark&hide_border=true&border_radius=10&title_color=C9D1D9&text_color=7d8fa3&icon_color=4a6fa5&bg_color=000000" height="150" alt="HTB Platform Database" />
 </a>
+
 &nbsp;&nbsp;
-<a href="https://github.com/Nitblan/IA-LocalTune">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitblan&repo=IA-LocalTune&theme=dark&hide_border=true&border_radius=10&title_color=C9D1D9&text_color=7d8fa3&icon_color=4a6fa5&bg_color=000000" height="150" alt="IA LocalTune" />
+
+<a href="https://github.com/Nitblan/Bank-Management-System-C">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitblan&repo=Bank-Management-System-C&theme=dark&hide_border=true&border_radius=10&title_color=C9D1D9&text_color=7d8fa3&icon_color=4a6fa5&bg_color=000000" height="150" alt="Bank Management System in C" />
 </a>
+
 &nbsp;&nbsp;
+
 <a href="https://github.com/Nitblan/MyCust0mArch">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitblan&repo=MyCust0mArch&theme=dark&hide_border=true&border_radius=10&title_color=C9D1D9&text_color=7d8fa3&icon_color=4a6fa5&bg_color=000000" height="150" alt="MyCust0mArch" />
 </a>
 
-<br>
-<sub>IA-LocalTune — Internal Assessment de IB. Reproductor local estilo Spotify, construido en Python. &nbsp;|&nbsp; MyCust0mArch — mis dotfiles de Arch Linux.</sub>
+<br><br>
+
+<a href="https://github.com/Nitblan/IA-LocalTune">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitblan&repo=IA-LocalTune&theme=dark&hide_border=true&border_radius=10&title_color=C9D1D9&text_color=7d8fa3&icon_color=4a6fa5&bg_color=000000" height="150" alt="IA LocalTune" />
+</a>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2c3e50,100:000000&height=3&width=100%" width="100%"/>
+<sub>
+<b>HTB Platform Database</b> — Production-ready relational database inspired by Hack The Box with analytical views, indexing, and 3NF normalization.
+<br>
+<b>Bank Management System in C</b> — Modular banking application written in pure C demonstrating pointers, dynamic memory allocation, and software design.
+<br>
+<b>MyCust0mArch</b> — Complete Arch Linux installation and customization guide with BSPWM, NvChad, Kitty, Zsh, and RiceInstaller.
+<br>
+<b>IA-LocalTune</b> — IB Computer Science Internal Assessment. Offline desktop music player developed in Python.
+</sub>
+
 <br>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2c3e50,100:000000&height=3&width=100%" width="100%"/>
+
+<br>
 
 ## MAPA DE CONTRIBUCIONES
 

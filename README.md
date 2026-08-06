@@ -49,7 +49,7 @@ Preparatoria &nbsp;·&nbsp; Tecnológico de Monterrey CCM &nbsp;·&nbsp; 17 year
   <img src="https://img.shields.io/badge/Hack_The_Box-000000?style=for-the-badge&logo=hackthebox&logoColor=C9D1D9&labelColor=000000&color=2c3e50" />
 </a>
 <a href="https://hackingvault.com/shared-profile/7d222bf694c491807389a09cedc9139add080d8f95dc320998b3b45b2ec2d269">
-  <img src="https://img.shields.io/badge/HackingVault-000000?style=for-the-badge&logoColor=C9D1D9&labelColor=000000&color=2c3e50" />
+  <img src="https://img.shields.io/badge/HackingVault-000000?style=for-the-badge&logo=gnubash&logoColor=C9D1D9&labelColor=000000&color=2c3e50" />
 </a>
 </div>
 <br>

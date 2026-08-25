@@ -30,7 +30,7 @@ Preparatoria &nbsp;·&nbsp; Tecnológico de Monterrey CCM &nbsp;·&nbsp; 17 year
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,c,mysql,vscode,visualstudio,neovim,vim,obsidian&theme=dark&perline=8" width="620" />
+<img src="https://skillicons.dev/icons?i=python,c,mysql,vscode,docker,neovim,vim,obsidian&theme=dark&perline=8" width="620" />
 
 </div>
 
